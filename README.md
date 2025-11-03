@@ -1,34 +1,24 @@
-# WIZION
+# Owlumn
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-WIZION-blue?logo=google-chrome)](https://wizion.tech/)
-[![Twitter](https://img.shields.io/badge/Twitter-WIZION-blue?logo=twitter)](https://x.com/WIZIONBRG)
+[![Website](https://img.shields.io/badge/Website-Owlumn-blue?logo=google-chrome)](https://owlumn.fun/)
+[![Twitter](https://img.shields.io/badge/Twitter-Owlumn-blue?logo=twitter)](https://x.com/Owlumncom)
 
-WIZION is a programmable bridge that connects Bitcoin and Solana.
 
-It transforms Bitcoin from a “store-of-value” logic into a “generative” one, granting it renewed intelligence and liquidity within Solana’s high-speed environment.
+Owlumn is a living framework that turns the static records of the blockchain into a dynamic ecosystem of knowledge.
+Instead of letting transactions remain as isolated events, Owlumn captures, interprets, and connects them — forming a continuous flow of meaning between wallets, actions, and time.
 
-Through a trustless cross-chain architecture, WIZION enables BTC to move freely within the programmable layer, no longer as a static asset held passively but as an active entity participating in trading, governance, liquidity, and automation.
+Every on-chain event becomes a piece of information that breathes.
+Through semantic mapping and adaptive logic, these fragments evolve into structured knowledge streams — patterns that can be observed, learned from, and expanded by both humans and intelligent agents.
 
-The core of WIZION lies in redefining cross-chain relationships, allowing value not just to migrate but to transform.
+As more data flows through Solana, the network doesn’t just grow; it learns.
+It begins to form memory, context, and inference — a decentralized knowledge fabric powered by collective behavior.
 
-Each bridge operation serves as a “translation” between Bitcoin and Solana, converting the non-programmable logic of value into composable intelligent logic.
+Owlumn stands at the intersection of intelligence and infrastructure, bridging raw data with understanding.
+It’s not a database, not an oracle — but a growth framework that allows knowledge itself to live, adapt, and expand across the chain.
 
-This bridge connects not only two chains but also two execution paradigms, reviving Bitcoin’s stability within Solana’s programmable layer.
-
-```
- █     █░ ██▓▒███████▒ ██▓ ▒█████   ███▄    █ 
-▓█░ █ ░█░▓██▒▒ ▒ ▒ ▄▀░▓██▒▒██▒  ██▒ ██ ▀█   █ 
-▒█░ █ ░█ ▒██▒░ ▒ ▄▀▒░ ▒██▒▒██░  ██▒▓██  ▀█ ██▒
-░█░ █ ░█ ░██░  ▄▀▒   ░░██░▒██   ██░▓██▒  ▐▌██▒
-░░██▒██▓ ░██░▒███████▒░██░░ ████▓▒░▒██░   ▓██░
-░ ▓░▒ ▒  ░▓  ░▒▒ ▓░▒░▒░▓  ░ ▒░▒░▒░ ░ ▒░   ▒ ▒ 
-  ▒ ░ ░   ▒ ░░░▒ ▒ ░ ▒ ▒ ░  ░ ▒ ▒░ ░ ░░   ░ ▒░
-  ░   ░   ▒ ░░ ░ ░ ░ ░ ▒ ░░ ░ ░ ▒     ░   ░ ░ 
-    ░     ░    ░ ░     ░      ░ ░           ░ 
-             ░                                
-```
+In Owlumn, data is no longer silent — it speaks, connects, and evolves.

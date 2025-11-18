@@ -1,4 +1,4 @@
-// setup_dapp.js WAGBOY
+// setup_dapp.js POLYONE
 // Example of setting up a frontend DApp with wallet integration for Solana blockchain
 
 import { Connection, PublicKey, clusterApiUrl, LAMPORTS_PER_SOL } from '@solana/web3.js';

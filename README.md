@@ -8,6 +8,11 @@
 [![Website](https://img.shields.io/badge/Website-SOBYTE-blue?logo=google-chrome)](https://sobyte.run/)
 [![Twitter](https://img.shields.io/badge/Twitter-SOBYTE-blue?logo=twitter)](https://x.com/SOBYTECODE)
 
+```
+CA: ECLa9H8uBivBx3VBgMqkGMApYRRwEjmWM3WSr9Uopump
+```
+
+
 # SOBYTE — The Modular AI-Powered Development Framework for Solana
 
 SOBYTE is an intelligent modular development framework that enables builders to create Solana projects the way they assemble code blocks — faster, safer, and easier to maintain.
